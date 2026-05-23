@@ -1,0 +1,9 @@
+packages:
+  - "front/*"
+  - "back/*"
+ignoredBuiltDependencies:
+  - core-js-pure
+  - esbuild
+  - sharp
+  - supabase
+  - unrs-resolver
