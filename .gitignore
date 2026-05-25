@@ -34,3 +34,5 @@ yarn-error.log*
 # folder 
 front/
 back/
+packages/
+package-lock.json
